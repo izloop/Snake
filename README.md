@@ -1,5 +1,5 @@
 # Snake
-Snake game in C++ for MacOS using NCURSES
+Snake game in C++ for MacOS using NCurses
 
 ![Console view of game](https://i.imgur.com/GKG3Q5d.png)
 
